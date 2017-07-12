@@ -13,8 +13,8 @@
     "object-assign": "~4.1.1",
     "socket.io-adapter": "~1.1.0",
     "socket.io-client": "~2.0.2",
-    "socket.io-parser": "~3.1.1"
-    "socket.io":"*",
+    "socket.io-parser": "~3.1.1",
+    "socket.io":"*"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
